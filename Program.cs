@@ -78,6 +78,7 @@ namespace Dz4
                 Console.Write(c + " ");
             }
 
+            // Test
             Console.WriteLine();
             foreach (var c in resArr2)
             {
